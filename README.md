@@ -1,3 +1,9 @@
+<div align="center">
+	<img src="welcome-to-my-profile.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
 ### Hi there 👋
 ### :fire: My Stats :
 
